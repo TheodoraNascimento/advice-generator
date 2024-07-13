@@ -39,6 +39,7 @@ body{
     align-self: center;
     padding: 20px ;
     letter-spacing: 2px;
+    position: relative;
 }
 
 .advice{
@@ -50,8 +51,6 @@ body{
 
 picture{
     text-align: center;
-    position: relative;
-    
 }
 
 .card .advice-update{
